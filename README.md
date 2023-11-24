@@ -28,3 +28,5 @@ CONFIG_HYPERV_IOMMU=y
 # Filesystems support (Y)
 Filesystems: MSDOS, VFAT, NTFS (rw), exFAT, ISO 9660, UDF, ext4, btrfs
 
+# Reference
+[Hyper-V - Gentoo Wiki](https://wiki.gentoo.org/wiki/Hyper-V#Linux_guest_support)
