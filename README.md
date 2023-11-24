@@ -6,7 +6,7 @@ Kernel version:  6.1.57-gentoo-x86_64
 Hyper-V's settings activated into kernel: (Y)
 
 ```
-CONFIG_X86_HV_CALLBACK_VECTOR=y\
+CONFIG_X86_HV_CALLBACK_VECTOR=y
 CONFIG_UIO_HV_GENERIC=y
 
 CONFIG_HYPERVISOR_GUEST=y
